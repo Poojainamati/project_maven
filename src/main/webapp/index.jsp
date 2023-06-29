@@ -6,13 +6,13 @@
 <title>Hello, World!</title>
 <style>
   body {
-    background-color: yellow;
+    background-color: white;
   }
 </style>
 </head>
 <body>
 <h1>Hello, World!</h1>
-<p>This is a sample "Hello, World!" application for 2024 April Batch.</p>
+<p>This is a sample project "Hello, World!" application for 2024 April Batch.</p>
 </body>
 </html>
 
