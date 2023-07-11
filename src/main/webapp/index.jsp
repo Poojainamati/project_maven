@@ -12,7 +12,7 @@
 </head>
 <body>
 <h1>Hello, World!</h1>
-<p>This is a sample project "Hello, World!" application for 2024 April Batch.</p>
+<p>This is a sample project "Hello, World welcome to my page" application for 2025 July Batch.</p>
 </body>
 </html>
 
